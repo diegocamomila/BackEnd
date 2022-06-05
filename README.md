@@ -1,17 +1,17 @@
 # BackEnd
 
-
 ## 19-DockerTodoList
+
 Nesse projeto, você será capaz de:
 
-    - **_Conteinerizar_** aplicações;
-    
-    - Criar uma conexão entre elas;
-    
-    - Orquestrar seu funcionamento;
----
+* **_Conteinerizar_** aplicações;
+* Criar uma conexão entre elas;
+
+- Orquestrar seu funcionamento;
+-------------------------------
 
 ## 20-All For One
+
 Nesse projeto, você será capaz de:
 
 - Entender o que são bancos de dados
@@ -37,10 +37,11 @@ Nesse projeto, você será capaz de:
 - Inserir dados em tabelas com `INSERT`
 - Atualizar dados em tabelas com `UPDATE`
 - Apagar dados em tabelas com `DELETE`
+
 ---
 
 ## 21- OneForAll
 
 Normalize uma tabela na terceira forma normal:
 
-   - Acesse as informações desta tabela através de `queries` utilizando `SQL` utilizando docker.
+- Acesse as informações desta tabela através de `queries` utilizando `SQL` utilizando docker.
